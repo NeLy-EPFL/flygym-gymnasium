@@ -73,7 +73,7 @@ examples = [
 [project.urls]
 homepage = "https://neuromechfly.org/"
 repository = "https://github.com/NeLy-EPFL/flygym-gymnasium"
-documentation = "https://neuromechfly.org/"
+documentation = "https://nely-epfl.github.io/flygym-gymnasium/"
 "Bug Tracker" = "https://github.com/NeLy-EPFL/flygym-gymnasium/issues"
 
 [build-system]
