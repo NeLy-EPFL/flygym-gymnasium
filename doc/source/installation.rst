@@ -1,6 +1,10 @@
 Installation
 ============
 
+.. note::
+
+    To install the newest version of FlyGym, see `neuromechfly.org <https://neuromechfly.org/>`_.
+
 
 FlyGym can be installed in one of three ways:
 
@@ -55,13 +59,13 @@ Once you have Poetry installed, you can install FlyGym by running the following 
 .. code-block:: bash
 
    # Clone the FlyGym repository
-   git clone https://github.com/NeLy-EPFL/flygym.git
+   git clone https://github.com/NeLy-EPFL/flygym-gymnasium.git
    # Alternatively, use SSH if you have it set up already or if you want to
    # contribute to the FlyGym project:
-   # git clone https://github.com/NeLy-EPFL/flygym.git
+   # git clone https://github.com/NeLy-EPFL/flygym-gymnasium.git
 
    # Change into the FlyGym directory
-   cd flygym
+   cd flygym-gymnasium
 
    # Install with Poetry
    poetry install
