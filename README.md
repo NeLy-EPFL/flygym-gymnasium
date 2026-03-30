@@ -61,9 +61,10 @@ We are constantly working on expanding the package and improving its usability; 
 
 ## Citation
 If you use NeuroMechFly in your work, please cite the following papers:
+{% raw %}
 ```
 @article{WangChen2024,
-  title = {NeuroMechFly v2: simulating embodied sensorimotor control in adult Drosophila},
+  title = {{NeuroMechFly v2}: simulating embodied sensorimotor control in adult Drosophila},
   volume = {21},
   ISSN = {1548-7105},
   url = {http://dx.doi.org/10.1038/s41592-024-02497-y},
@@ -90,3 +91,4 @@ If you use NeuroMechFly in your work, please cite the following papers:
   journal = {Nature Methods}
 }
 ```
+{% endraw %}
