@@ -7,24 +7,24 @@ This page provides the API reference for the ``BaseArena`` abstract class as wel
 
 Base arena
 ----------
-.. autoclass:: flygym.arena.BaseArena
+.. autoclass:: flygym_gymnasium.arena.BaseArena
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
 
-.. autoclass:: flygym.arena.FlatTerrain
+.. autoclass:: flygym_gymnasium.arena.FlatTerrain
 
 Preprogrammed complex terrain arenas
 ------------------------------------
 
-.. autoclass:: flygym.arena.GappedTerrain
+.. autoclass:: flygym_gymnasium.arena.GappedTerrain
 
-.. autoclass:: flygym.arena.BlocksTerrain
+.. autoclass:: flygym_gymnasium.arena.BlocksTerrain
 
-.. autoclass:: flygym.arena.MixedTerrain
+.. autoclass:: flygym_gymnasium.arena.MixedTerrain
 
 Preprogrammed arenas with sensory features
 ------------------------------------------
 
-.. autoclass:: flygym.arena.OdorArena
+.. autoclass:: flygym_gymnasium.arena.OdorArena

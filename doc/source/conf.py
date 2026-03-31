@@ -78,6 +78,14 @@ html_theme_options = {
             "class": "",
         },
     ],
+    "light_css_variables": {
+        "color-announcement-background": "#F5FF70",
+        "color-announcement-text": "#000000",
+    },
+    "dark_css_variables": {
+        "color-announcement-background": "#F5FF70",
+        "color-announcement-text": "#000000",
+    },
 }
 
 html_favicon = "_static/favicon.ico"

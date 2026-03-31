@@ -5,13 +5,13 @@ The ``State`` represents the state of the animal. This can include the biomechan
 
 This page provides the API reference for the ``BaseState`` and the ``KinematicPose``, which is used to define the initial pose (angles at all DoFs) of the simulated fly.
 
-.. autoclass:: flygym.state.BaseState
+.. autoclass:: flygym_gymnasium.state.BaseState
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
 
-.. autoclass:: flygym.state.KinematicPose
+.. autoclass:: flygym_gymnasium.state.KinematicPose
     :members:
     :undoc-members:
     :show-inheritance:

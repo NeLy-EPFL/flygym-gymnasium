@@ -31,16 +31,16 @@ Body segments
    >>> flygym.preprogrammed.all_tarsi_links
    ['LFTarsus1', 'LFTarsus2', 'LFTarsus3', 'LFTarsus4', 'LFTarsus5', 'LMTarsus1', 'LMTarsus2', 'LMTarsus3', 'LMTarsus4', 'LMTarsus5', 'LHTarsus1', 'LHTarsus2', 'LHTarsus3', 'LHTarsus4', 'LHTarsus5', 'RFTarsus1', 'RFTarsus2', 'RFTarsus3', 'RFTarsus4', 'RFTarsus5', 'RMTarsus1', 'RMTarsus2', 'RMTarsus3', 'RMTarsus4', 'RMTarsus5', 'RHTarsus1', 'RHTarsus2', 'RHTarsus3', 'RHTarsus4', 'RHTarsus5']
 
-.. autofunction:: flygym.preprogrammed.get_collision_geometries
+.. autofunction:: flygym_gymnasium.preprogrammed.get_collision_geometries
 
 Pose
 ----
 
-.. autofunction:: flygym.preprogrammed.get_preprogrammed_pose
+.. autofunction:: flygym_gymnasium.preprogrammed.get_preprogrammed_pose
 
 CPG phase biases
 ----------------
 
 We have preprogrammed the CPG phase biases (see `tutorial on CPGs <../tutorials/cpg_controller.html>`_ for details) for three gait types: tripod, tetrapod, and wave. These can be retrieved using the following function:
 
-.. autofunction:: flygym.preprogrammed.get_cpg_biases
+.. autofunction:: flygym_gymnasium.preprogrammed.get_cpg_biases

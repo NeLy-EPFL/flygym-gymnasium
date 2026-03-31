@@ -3,22 +3,22 @@ Head Stabilization
 
 Model
 -----
-.. autoclass:: flygym.examples.head_stabilization.JointAngleScaler
+.. autoclass:: flygym_gymnasium.examples.head_stabilization.JointAngleScaler
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
 
-.. autoclass:: flygym.examples.head_stabilization.WalkingDataset
+.. autoclass:: flygym_gymnasium.examples.head_stabilization.WalkingDataset
     :members:
     :undoc-members:
     :show-inheritance:
 
-.. autoclass:: flygym.examples.head_stabilization.ThreeLayerMLP
+.. autoclass:: flygym_gymnasium.examples.head_stabilization.ThreeLayerMLP
     :members:
     :show-inheritance:
 
-.. autoclass:: flygym.examples.head_stabilization.HeadStabilizationInferenceWrapper
+.. autoclass:: flygym_gymnasium.examples.head_stabilization.HeadStabilizationInferenceWrapper
     :members:
     :undoc-members:
     :show-inheritance:
@@ -27,5 +27,5 @@ Model
 
 Utilities
 ---------
-.. autofunction:: flygym.examples.head_stabilization.util.get_head_stabilization_model_paths
+.. autofunction:: flygym_gymnasium.examples.head_stabilization.util.get_head_stabilization_model_paths
 

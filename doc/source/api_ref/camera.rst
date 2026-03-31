@@ -21,7 +21,7 @@ We propose three different camera update rules:
 
 The full API reference of the different type of camera classes is as follows:
 
-.. automodule:: flygym.camera
+.. automodule:: flygym_gymnasium.camera
     :members:
     :undoc-members:
     :show-inheritance:
