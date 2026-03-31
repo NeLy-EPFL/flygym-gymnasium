@@ -90,4 +90,3 @@ html_theme_options = {
 html_favicon = "_static/favicon.ico"
 html_title = "NeuroMechFly documentation"
 html_logo = "https://raw.githubusercontent.com/NeLy-EPFL/_media/refs/heads/main/flygym/banner_small.jpg"
-
