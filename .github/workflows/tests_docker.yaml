@@ -21,7 +21,7 @@ jobs:
             ${{ runner.os }}-buildx-
 
       - name: Build Docker image
-        run: docker build --tag flygym:temp .
+        run: docker build --tag flygym-gymnasium:temp .
 
       - name: Run tests inside Docker container
-        run: docker run --rm flygym:temp -c "pytest"
+        run: docker run --rm flygym-gymnasium:temp -c "pytest"
