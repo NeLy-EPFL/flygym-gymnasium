@@ -1,6 +1,6 @@
 [project]
 name = "flygym-gymnasium"
-version = "1.3.1"
+version = "1.3.2"
 description = """Fork of the older 1.x.x API of FlyGym."""
 requires-python = ">=3.10,<3.13"
 authors = [
