@@ -4,14 +4,14 @@ Advanced Olfaction
 Arenas
 ------
 
-.. autoclass:: flygym.examples.vision.arena.ObstacleOdorArena
+.. autoclass:: flygym_gymnasium.examples.vision.arena.ObstacleOdorArena
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
     :noindex:
 
-.. autoclass:: flygym.examples.olfaction.OdorPlumeArena
+.. autoclass:: flygym_gymnasium.examples.olfaction.OdorPlumeArena
     :members:
     :undoc-members:
     :show-inheritance:
@@ -21,19 +21,19 @@ Arenas
 Tracking complex plumes
 -----------------------
 
-.. autoclass:: flygym.examples.olfaction.PlumeNavigationTask
+.. autoclass:: flygym_gymnasium.examples.olfaction.PlumeNavigationTask
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
 
-.. autoclass:: flygym.examples.olfaction.WalkingState
+.. autoclass:: flygym_gymnasium.examples.olfaction.WalkingState
     :members:
     :undoc-members:
     :show-inheritance:
     :inherited-members:
 
-.. autoclass:: flygym.examples.olfaction.PlumeNavigationController
+.. autoclass:: flygym_gymnasium.examples.olfaction.PlumeNavigationController
     :members:
     :undoc-members:
     :show-inheritance:

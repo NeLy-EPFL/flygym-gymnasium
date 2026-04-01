@@ -5,7 +5,7 @@ SHELL ["/bin/bash", "-c"]
 
 # Change working directory
 ENV HOME /root
-WORKDIR $HOME/flygym
+WORKDIR $HOME/flygym-gymnasium
 
 # Install system dependencies
 RUN apt update && \
@@ -16,7 +16,7 @@ ENV MUJOCO_GL=egl
 ENV PYOPENGL_PLATFORM=egl
 
 # Copy flygym package to the container and install the package
-ADD . $HOME/flygym/
+ADD . $HOME/flygym-gymnasium/
 
 # Set up virtual environment and install dependencies
 RUN pip install -e ".[examples,dev]"
